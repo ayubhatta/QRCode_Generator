@@ -1,3 +1,4 @@
+# Use this code for generating your QR Code as your preferences.
 import qrcode
 from PIL import Image
 
